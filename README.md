@@ -6,11 +6,14 @@ Web Developer, GCP and Aiml Enthusiast
 
 I'm dedicated to programming and Entrepreneurship. Experienced Web Developer with a demonstrated history of working in the computer software industry. Skilled in Django, Python (Programming Language), GCP, Git & Github , Leadership, Team-building and Engineering. Strong engineering professional with a B.Tech focused in CSE(AIML).
 
-*   🌍  I'm based in Bhopal
-*   ✉️  You can contact me at [geeteshmehto018@protonmail.com](mailto:geeteshmehto018@protonmail.com)
-*   🧠  I'm learning TensorFlow
-*   🤝  I'm open to collaborating on Web development projects, Cloud roles, Aiml Fields, Python Development.
-*   ⚡  Founder and creator of Innotechzz.com### Skills 
+* 🌍  I'm based in Bhopal
+* ✉️  You can contact me at [geeteshmehto018@protonmail.com](mailto:geeteshmehto018@protonmail.com)
+* 🧠  I'm learning TensorFlow
+* 🤝  I'm open to collaborating on Web development projects, Cloud roles, Aiml Fields, Python Development.
+* ⚡  Founder and creator of Innotechzz.com
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -34,15 +37,10 @@ I'm dedicated to programming and Entrepreneurship. Experienced Web Developer wit
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/GeeteshMehto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/geetesh-mehto-04991721b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/geetesh_mehto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Support Me<a
-                  href="https://www.buymeacoffee.com/geeteshmehto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/GeeteshMehto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geetesh-mehto-04991721b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/geetesh_mehto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Support Me
+
+<a href="https://www.buymeacoffee.com/geeteshmehto"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
